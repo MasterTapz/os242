@@ -13,3 +13,4 @@ ZCZC W01 20 L05 QUIZ1
 ZCZC W01 90 L11 Completing the rest of Assignment 1
 ZCZC W01 120 L05 Studying for QUIZ1
 ZCZC W01 30 L64 Helping friends setup their virtual machine
+ZCZC W02 90 L11 Completing the Assignment 2
