@@ -18,3 +18,7 @@ ZCZC W02 60 L64 Helping friends do OS pop quiz
 ZCZC W02 100 L05 Studying for Quiz02
 ZCZC W02 20 L05 Doing Quiz02
 ZCZC W02 30 L64 Helping friend setup their assignment script
+ZCZC W03 120 L11 Completing the assignment 3
+ZCZC W03 50 L64 Helping a friend mount their virtual disk to their VM
+ZCZC W03 30 L25 Creating OS pop quiz 3 quiz
+ZCZC W03 30 L64 Helping friends do OS pop quiz
