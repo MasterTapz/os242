@@ -13,9 +13,11 @@ This link leads to a comprehensive guide on managing your virtual machine, inclu
 This YouTube video is a must-watch for anyone looking to master the essential Linux commands. It covers the fundamental commands necessary for managing and navigating Linux systems, making it a great resource for beginners and advanced users alike.
 
 ### [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg)
-Some easy-to-use commands you can use to inspect hardware. 
+Some easy-to-use commands you can use to inspect hardware.
+### [How to Add Additional Hard Drive in VirtualBox](https://www.youtube.com/watch?v=XmpFXe3Opws) --- 
+This video provides a step-by-step guide on adding an extra hard drive in VirtualBox. It helps me set up and manage storage for virtual machines, a useful guide for the assignments. 
 <br>
 <br>
-### REV: Sun, 15 Sep 2024 09:00
+### REV: Sun, 22 Sep 2024 14:30
 <hr>
 
