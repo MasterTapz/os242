@@ -22,7 +22,14 @@ This video gives a quick overview of C language basics. It helps me by refreshin
 
 ### [printf in C](https://www.geeksforgeeks.org/printf-in-c/)
 This article explains the printf function and its various use cases in C. It helps me understand how to format outputs in my C programs more effectively.
+
+### [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program/) 
+This webpage offers a detailed explanation of the memory layout in C programs. It helps me understand how different segments like stack, heap, and data sections are organized.
+###  [Linux Memory Management — All you need to know](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386) 
+This article provides an insightful overview of Linux memory management, covering key concepts such as virtual memory, paging, and caching. It deepens my understanding of how the Linux kernel efficiently manages system resources.
+
 <br>
 <br>
 ### REV: Sun, 30 Sep 2024 17:00
 <hr>
+
