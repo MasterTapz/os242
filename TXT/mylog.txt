@@ -27,3 +27,9 @@ ZCZC W04 40 L05 Studying for Quiz 3
 ZCZC W04 20 L05 Doing Quiz 3
 ZCZC W04 60 L09 Doing Pop-Quiz 4
 ZCZC W04 30 L64 Helping a Friend with their pop quiz setup
+ZCZC W05 120 L05 Studying for quiz 4
+ZCZC W05 20 L05 Doing quiz 4
+ZCZC W05 300 L64 Helping friends with the pop quizzes
+ZCZC W05 120 L15 Doing assignment 5
+ZCCZ W05 80 L24 Solving mymemory2.c script
+ZCZC W05 20 L43 TXT/myrank.txt related, including peer review.
