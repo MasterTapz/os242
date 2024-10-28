@@ -28,8 +28,10 @@ This webpage offers a detailed explanation of the memory layout in C programs. I
 ###  [Linux Memory Management — All you need to know](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386) 
 This article provides an insightful overview of Linux memory management, covering key concepts such as virtual memory, paging, and caching. It deepens my understanding of how the Linux kernel efficiently manages system resources.
 
-<br>
-<br>
-### REV: Sun, 30 Sep 2024 17:00
-<hr>
+### [What is Operating System? Full Explanation](https://www.youtube.com/watch?v=_NEJVgiGp8Q)
+This video offers a comprehensive overview of operating systems, detailing their functions and importance in computing
 
+<br>
+<br>
+### REV: Mon, 28 OCTOBER 2024 21:00
+<hr>
