@@ -33,3 +33,7 @@ ZCZC W05 300 L64 Helping friends with the pop quizzes
 ZCZC W05 120 L15 Doing assignment 5
 ZCCZ W05 80 L24 Solving mymemory2.c script
 ZCZC W05 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W06 300 L09 Completing Pop-Quiz 6
+ZCZC W06 120 L15 Completing assignment 6
+ZCZC W06 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W06 100 L64 Helping a Friend with their pop quizzes
