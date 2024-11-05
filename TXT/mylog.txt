@@ -37,3 +37,8 @@ ZCZC W06 300 L09 Completing Pop-Quiz 6
 ZCZC W06 120 L15 Completing assignment 6
 ZCZC W06 20 L43 TXT/myrank.txt related, including peer review.
 ZCZC W06 100 L64 Helping a Friend with their pop quizzes
+ZCZC W07 200 L09 Completing Pop-Quiz 7
+ZCZC W07 100 L15 Completing assignment 7
+ZCZC W07 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W07 20 L09 Doing quiz 6
+ZCZC w07 20 L05 Studying for Quiz 6
