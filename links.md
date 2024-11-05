@@ -31,7 +31,10 @@ This article provides an insightful overview of Linux memory management, coverin
 ### [What is Operating System? Full Explanation](https://www.youtube.com/watch?v=_NEJVgiGp8Q)
 This video offers a comprehensive overview of operating systems, detailing their functions and importance in computing
 
+### [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY&t)  
+This video by GeeksforGeeks explains deadlock in operating systems, covering conditions, examples, and prevention methods. It’s a useful resource for understanding how operating systems handle resource allocation issues.
 <br>
 <br>
-### REV: Mon, 28 OCTOBER 2024 21:00
+<br>
+### REV: Tuesday, 5 November 2024 12:00
 <hr>
