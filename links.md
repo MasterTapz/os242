@@ -33,8 +33,11 @@ This video offers a comprehensive overview of operating systems, detailing their
 
 ### [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY&t)  
 This video by GeeksforGeeks explains deadlock in operating systems, covering conditions, examples, and prevention methods. It’s a useful resource for understanding how operating systems handle resource allocation issues.
+
+### [Kernotex](https://www.youtube.com/@Kernotex)
+This video is very helpful for being a guidance for building a linux from scratch
 <br>
 <br>
 <br>
-### REV: Tuesday, 5 November 2024 12:00
+### REV: Tuesday, 12 November 2024 12:00
 <hr>
