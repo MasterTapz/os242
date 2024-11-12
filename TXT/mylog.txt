@@ -42,3 +42,8 @@ ZCZC W07 100 L15 Completing assignment 7
 ZCZC W07 20 L43 TXT/myrank.txt related, including peer review.
 ZCZC W07 20 L09 Doing quiz 6
 ZCZC w07 20 L05 Studying for Quiz 6
+ZCZC W08 300 L15 Completing assignment 8
+ZCZC W08 100 L09 Completing Pop-Quiz 8
+ZCZC W08 10 TXT/myrank.txt related
+ZCZC W08 20 L09 Doing quiz 7
+ZCZC W08 10 L05 Studying for quiz 7
