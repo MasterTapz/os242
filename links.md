@@ -36,8 +36,11 @@ This video by GeeksforGeeks explains deadlock in operating systems, covering con
 
 ### [Kernotex](https://www.youtube.com/@Kernotex)
 This video is very helpful for being a guidance for building a linux from scratch
+
+### [8. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scratch] (https://youtu.be/m6USND1vPhM?si=jzvGGqToTpLN5lDp) 
+Learn how to make LFS. This video helps me compile and install packages easily.
 <br>
 <br>
 <br>
-### REV: Tuesday, 12 November 2024 12:00
+### REV: Tuesday, 19 November 2024 15:00
 <hr>
